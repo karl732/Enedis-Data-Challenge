@@ -30,4 +30,6 @@ Nous allons donc ensemble :
 3. Evoquer nos conclusions et les limites du projet
 
 
+   <img src="Electricity.gif" alt="Mon Sticker" width="400" height="250" style="display: block; margin-left: auto; margin-right: auto;" />
+
 
